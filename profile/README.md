@@ -2,7 +2,7 @@
 
 🙋‍♀️ Welcome to Helltaker Hangout's development hub !
 
-🌈 Contribution guidelines - Please join and ask on our Discord how to get involved.
+🌈 Contribution guidelines - Please [join and ask on our Discord](http://discord.gg/helltaker) how to get involved.
 
 👩‍💻 Useful resources - You can find most ressources in the Echidna repo and on Discord Developers.
 
